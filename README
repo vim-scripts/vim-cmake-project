@@ -6,4 +6,4 @@ a sidebar that displays project files in the tree view.
 Dependencies:
     *perl-File-Find-Rule
 
-To follow a Github project https://github.com/Ignotus/vim-cmake-project
+Get latest changes from Github https://github.com/Ignotus/vim-cmake-project
