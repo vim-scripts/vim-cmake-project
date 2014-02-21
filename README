@@ -3,7 +3,4 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4279
 CMake-Project is a plugin for cmake projects effective management. It provides
 a sidebar that displays project files in the tree view.
 
-Dependencies:
-    *perl-File-Find-Rule
-
 Get latest changes from Github https://github.com/Ignotus/vim-cmake-project
